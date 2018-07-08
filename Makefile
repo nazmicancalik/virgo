@@ -3,3 +3,6 @@ virgo: virgo.c
 
 run: virgo
 	./virgo
+
+clean: virgo
+	rm -f virgo
